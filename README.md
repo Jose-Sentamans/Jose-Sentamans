@@ -8,7 +8,7 @@
 
 ##**Que hago por las Manñanas**
 
-```pandoc
+```flow
 st=>start:Me despierto;
 des=>operation: Desalluno;
 bañ=>operation: Voy al baño;
