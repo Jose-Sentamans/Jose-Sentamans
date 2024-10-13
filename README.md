@@ -1,5 +1,4 @@
 #Informacion Personal
-[TOC]
 ##1
 ##2
 ##3
