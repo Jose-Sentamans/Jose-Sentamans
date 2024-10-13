@@ -1,8 +1,13 @@
 #Informacion Personal
+
 ##1
+
 ##2
+
 ##3
+
 ##**Que hago por las Manñanas**
+
 ```flow
 st=>start:Me despierto
 des=>operation: Desalluno
