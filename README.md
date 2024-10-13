@@ -1,6 +1,6 @@
-[[_TOC_]]
-
 #***Informacion Personal***
+
+[[_TOC_]]
 
 ##**Datos**
 
