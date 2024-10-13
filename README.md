@@ -8,7 +8,7 @@
 
 ##**Que hago por las Manñanas**
 
-```flow
+```mermaid
 st=>start:Me despierto;
 des=>operation: Desalluno;
 bañ=>operation: Voy al baño;
