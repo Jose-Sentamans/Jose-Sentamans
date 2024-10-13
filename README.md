@@ -15,6 +15,7 @@
 1.*DNI*:23452235142434Ñ
 
 ##**Curriculum**
+
 +*Estudios*:
 Estudio un ciclo formativo de grado medio de circuitos microinformaticos y redes
 
