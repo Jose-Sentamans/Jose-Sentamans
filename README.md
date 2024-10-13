@@ -1,7 +1,5 @@
 #***Informacion Personal***
 
-[[_TOC_]]
-
 ##**Datos**
 
 1.*Nombre*:Jose Miguel
